@@ -1,0 +1,11 @@
+1D & 2D arrays
+
+Sliding window
+
+Prefix sum
+
+Two pointers
+
+String manipulation
+
+Pattern matching basics

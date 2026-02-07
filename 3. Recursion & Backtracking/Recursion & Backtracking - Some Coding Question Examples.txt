@@ -1,0 +1,11 @@
+Recursion tree analysis
+
+Backtracking framework
+
+Subsets / permutations
+
+N-Queens
+
+Rat in a maze
+
+Sudoku solver

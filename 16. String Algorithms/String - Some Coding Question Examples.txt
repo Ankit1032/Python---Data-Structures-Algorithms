@@ -1,0 +1,7 @@
+KMP
+
+Z-algorithm
+
+Rabin-Karp
+
+Trie-based search

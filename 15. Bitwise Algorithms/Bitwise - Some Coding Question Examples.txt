@@ -1,0 +1,7 @@
+XOR tricks
+
+Subset generation
+
+Bit masking
+
+Bit DP (intro level)

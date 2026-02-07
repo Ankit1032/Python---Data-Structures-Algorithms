@@ -1,0 +1,13 @@
+1D & 2D DP
+
+Knapsack (0/1, unbounded)
+
+LIS / LCS
+
+Matrix chain multiplication
+
+DP on grids
+
+DP on trees
+
+State optimization

@@ -1,0 +1,5 @@
+Stack amortization
+
+Dynamic array resizing
+
+Union-Find analysis

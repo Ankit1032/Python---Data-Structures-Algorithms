@@ -1,0 +1,9 @@
+Trie
+
+Segment Tree
+
+Fenwick Tree (BIT)
+
+Sparse Table
+
+AVL / Red-Black tree (conceptual)

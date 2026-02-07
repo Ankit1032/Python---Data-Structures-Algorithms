@@ -1,0 +1,11 @@
+Singly / Doubly / Circular
+
+Reversal (iterative & recursive)
+
+Cycle detection
+
+Merge two lists
+
+Intersection point
+
+LRU cache idea

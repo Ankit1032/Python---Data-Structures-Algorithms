@@ -1,0 +1,7 @@
+Stack operations
+
+Infix / Prefix / Postfix
+
+Balanced parentheses
+
+Next greater element

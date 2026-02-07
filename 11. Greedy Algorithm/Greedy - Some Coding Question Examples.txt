@@ -1,0 +1,9 @@
+Activity selection
+
+Interval scheduling
+
+Huffman coding
+
+Fractional knapsack
+
+Job sequencing

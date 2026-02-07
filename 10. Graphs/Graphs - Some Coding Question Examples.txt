@@ -1,0 +1,15 @@
+Graph representation
+
+BFS / DFS
+
+Connected components
+
+Cycle detection
+
+Topological sort
+
+Shortest paths (Dijkstra, Bellman-Ford)
+
+Minimum spanning tree (Prim, Kruskal)
+
+Union-Find / DSU

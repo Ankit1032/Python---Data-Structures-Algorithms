@@ -1,0 +1,17 @@
+Binary search (variants)
+
+Sorting algorithms:
+
+Bubble
+
+Selection
+
+Insertion
+
+Merge
+
+Quick
+
+Heap
+
+Stability & complexity analysis
